@@ -1,0 +1,9 @@
+@import './sass/variables';
+@import './sass/components';
+
+:export {
+    primary: $color-primary;
+    secondary: $color-secondary;
+    white: $color-white;
+    black: $color-black;
+}
